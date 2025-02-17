@@ -1,0 +1,62 @@
+commit 5bae8375bb8991e8f81f1534188879c4195ab3f0
+Merge: f37cdce 500e894
+Author: Alejandro V <96953759+Alejandro-50X@users.noreply.github.com>
+Date:   Wed Feb 12 17:07:30 2025 -0800
+
+    Merge pull request #1 from Alejandro-50X/feature-about-me
+    
+    Created the pull request
+
+commit 500e89409df9984c7144b6ed2286ee4d26a1d0ce
+Merge: 98e60d3 f37cdce
+Author: Alejandro V <alejandro.r.vargas@outlook.com>
+Date:   Wed Feb 12 16:57:13 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 98e60d3ca284c71497a78d27eac92230a8e07575
+Author: Alejandro V <alejandro.r.vargas@outlook.com>
+Date:   Wed Feb 12 16:43:12 2025 -0800
+
+    the first change to the index.html
+    
+    I filled in the blanks in the div for the upper half and left the lower half blank
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
